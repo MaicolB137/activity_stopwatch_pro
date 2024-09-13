@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">activity_stopwatch_pro</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="Vuelta">Vuelta</string>
+    <string name="lap_scroll_view_description">Lap scroll view</string>
+</resources>
